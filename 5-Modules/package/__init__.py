@@ -1,3 +1,5 @@
-'''__init__.py is a special file used in Python to define
- packages and initialize their namespaces
- '''
+'''
+this file makes a folder package, but if we
+delete this file then also imports are working,
+why ???
+'''
