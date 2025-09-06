@@ -1,0 +1,8 @@
+new
+World
+This is a new log entry.
+This is a new log entry.This is a new log entry.This is a new log entry.
+
+Hello
+World
+
